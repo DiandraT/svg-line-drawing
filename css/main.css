@@ -22,8 +22,7 @@ h1 {
 
     transform: scale(1.2);
     opacity: 1;
-
-}
+  }
 
 }
 
@@ -59,7 +58,6 @@ h1 {
   animation: move 2s linear forwards;
   stroke-dasharray: 1900px;
   stroke-dashoffset: 1900px;
-
 }
 
 #rainbow-indigo {
